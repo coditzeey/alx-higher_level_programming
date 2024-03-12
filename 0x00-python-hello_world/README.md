@@ -1,3 +1,3 @@
 python, hello woorld
 
-yay! welcome to python!
+welcome to python! lets begin
